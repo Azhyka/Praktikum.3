@@ -123,5 +123,5 @@ print('Luas lingakaran dengan jari-jari {} adalah {}'.format(r, L))
 ```
 ![Gambar3](gambar/Latihan3.png)
 
-# Hasil Latihan 3
+# Hasil Latihan 4 Luas Lingkaran
 ![Gambar3](gambar/HasilLingkaran.png)

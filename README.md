@@ -110,6 +110,7 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 # Latihan 3 Luas Lingkaran
 # Flowchart untuk mencari Luas Lingkaran 
 ![Gambar3](gambar/Flowchart.png)
+# Membuat Program untuk Mencari Luas Lingkaran
 ```
 print('Menghitung luas lingakaran')
 print('==============================')

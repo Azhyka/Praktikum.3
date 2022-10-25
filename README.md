@@ -1,6 +1,6 @@
-# Praktikum3
+# Praktikum3 Fardhilan Galang Priarto
 
-## Latihan 1
+## Latihan 1 
 # Penggunaan end
 
   Parameter akhir dalam fungsi cetak digunakan untuk menambahkan string apa pun. Di akhir output dari pernyataan print dengan python.

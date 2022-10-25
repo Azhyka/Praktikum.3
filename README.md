@@ -1,6 +1,8 @@
-# Praktikum3 Fardhilan Galang Priarto
+## Nama = Azhyka Rizki Ramadhan
+## NIM = 212210287
+## Kelas = TI.22.A3
 
-## Latihan 1 
+# Latihan 1 
 # Penggunaan end
 
   Parameter akhir dalam fungsi cetak digunakan untuk menambahkan string apa pun. Di akhir output dari pernyataan print dengan python.

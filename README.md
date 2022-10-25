@@ -29,6 +29,7 @@ print(w, x, y, z, sep='-----')
 ![Gambar1](gambar/Latihan1,1.png)
 
 # String Format 
+String Formatting atau Pemformatan string memungkinkan kita menyuntikkan item ke dalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation. 
 ```
 # string format
 print(0, 10**0)
@@ -65,6 +66,7 @@ print('{0:>3} {1:>16}'.format(0, 10**10))
 ## Latihan 2
 
 # Input Variable
+Penggunaan python untuk menginput nilai variabel dengan cara
 ```
 a=input("masukkan nilai a:")
 b=input("masukkan nilai b:")
@@ -72,6 +74,7 @@ b=input("masukkan nilai b:")
 ![Gambar2](gambar/Latihan2.png)
 
 # Cetak Variable
+Mencetak nilai kedua variabel ketika sudah di input 
 ```
 print("variable a=",a)
 print("variable b=",b)
@@ -79,12 +82,14 @@ print("variable b=",b)
 ![Gambar2](gambar/Latihan2,1.png)
 
 # Penggabungan Variable
+Penggabungan kedua nilai Variable 
 ```
 print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
 ```
 ![Gambar2](gambar/Latihan2,2.png)
 
 # Input Variable 2
+Penggunaan python untuk menginput kedua variable 
 ```
 a=int(a)
 b=int(b)
@@ -92,6 +97,7 @@ b=int(b)
 ![Gambar2](gambar/Latihan2,3.png)
 
 # Konversi Nilai Variable
+Mencetak kembali hasil mengkonversi nilai kedua variabel  
 ```
 print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
@@ -102,6 +108,8 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 ![Gambar2](gambar/Hasil2.png)
 
 # Latihan 3 Luas Lingkaran
+# Flowchart untuk mencari Luas Lingkaran 
+![Gambar3](gambar/Flowchart.png)
 ```
 print('Menghitung luas lingakaran')
 print('==============================')

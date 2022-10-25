@@ -113,12 +113,24 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 # Flowchart untuk mencari Luas Lingkaran 
 ![Gambar3](gambar/Flowchart.png)
 # Membuat Program untuk Mencari Luas Lingkaran
+Rumus Luas Lingkaran adalah phi*r*r atau phi*r² 
 ```
 print('Menghitung luas lingakaran')
 print('==============================')
+```
+# Menginput Nilai Jari-Jari
+Menginput jari jari untuk mencari luas lingkaran
+```
 r = int(input('masukan jari-jari lingkaran: '))
+```
+# Mendeklarasikan Nilai Phi
+Nilai Phi adalah 3,14 atau 22/7
+```
 phi = 3.14
 L = phi * (r * r)
+```
+# Mencetak Hasil Luas Lingkaran
+```
 print('Luas lingakaran dengan jari-jari {} adalah {}'.format(r, L))
 ```
 ![Gambar3](gambar/Latihan3.png)
